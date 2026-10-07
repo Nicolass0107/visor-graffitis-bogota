@@ -1,0 +1,74 @@
+.bar {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+  padding: 12px;
+  background: rgba(255, 255, 255, 0.96);
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.22);
+}
+
+.search {
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  font-size: 0.9rem;
+}
+
+.search:focus,
+.select:focus,
+.dateLabel input:focus {
+  outline: 2px solid #0077b6;
+  outline-offset: 1px;
+}
+
+.row {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.select {
+  flex: 1 1 130px;
+  min-width: 0;
+  padding: 6px 8px;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  background: #ffffff;
+  font-size: 0.85rem;
+}
+
+.dateLabel {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-size: 0.72rem;
+  color: #495057;
+  flex: 1 1 110px;
+}
+
+.dateLabel input {
+  padding: 5px 6px;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  font-size: 0.82rem;
+  background: #ffffff;
+}
+
+.reset {
+  flex: 1 1 100%;
+  padding: 7px 10px;
+  border: none;
+  border-radius: 8px;
+  background: #0077b6;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.reset:hover {
+  background: #023e8a;
+}

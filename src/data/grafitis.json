@@ -1,0 +1,102 @@
+[
+  {
+    "id": "grf-001",
+    "lat": 4.598103,
+    "lng": -74.075993,
+    "foto": "/graffitis/tachas-bolivar-lluvia.jpg",
+    "barrio": "Centro Administrativo",
+    "autor": "",
+    "fecha": "2011-05-29",
+    "titulo": "Tachas en el pedestal de Bolívar"
+  },
+  {
+    "id": "grf-002",
+    "lat": 4.60585595,
+    "lng": -74.07102585,
+    "foto": "/graffitis/sin-miedo-barricada.jpg",
+    "barrio": "La Veracruz",
+    "autor": "",
+    "fecha": "2016-09-25",
+    "titulo": "Sin miedo en la barricada"
+  },
+  {
+    "id": "grf-003",
+    "lat": 4.59752178,
+    "lng": -74.07463072,
+    "foto": "/graffitis/puerta-calle-11.jpg",
+    "barrio": "Centro Administrativo",
+    "autor": "",
+    "fecha": "2015-08-14",
+    "titulo": "Puerta con tachas en la Calle 11"
+  },
+  {
+    "id": "grf-004",
+    "lat": 4.608893,
+    "lng": -74.070575,
+    "foto": "/graffitis/persiana-criollitas.jpg",
+    "barrio": "La Veracruz",
+    "autor": "",
+    "fecha": "2011-03-01",
+    "titulo": "Persiana pintada del Criollitas"
+  },
+  {
+    "id": "grf-005",
+    "lat": 4.637475,
+    "lng": -74.085613,
+    "foto": "/graffitis/muro-sandino-camilo.jpg",
+    "barrio": "Ciudad Universitaria",
+    "autor": "",
+    "fecha": "2012-07-03",
+    "titulo": "Sandino, Martí y Camilo en un muro"
+  },
+  {
+    "id": "grf-006",
+    "lat": 4.63746,
+    "lng": -74.080261,
+    "foto": "/graffitis/circulo-rosa.jpg",
+    "barrio": "Ciudad Universitaria",
+    "autor": "",
+    "fecha": "2024-11-07",
+    "titulo": "Círculo rosa en una puerta negra"
+  },
+  {
+    "id": "grf-007",
+    "lat": 4.637503,
+    "lng": -74.079773,
+    "foto": "/graffitis/tag-ventanales.jpg",
+    "barrio": "Ciudad Universitaria",
+    "autor": "",
+    "fecha": "2024-11-07",
+    "titulo": "Tag junto a los ventanales"
+  },
+  {
+    "id": "grf-008",
+    "lat": 4.637309,
+    "lng": -74.080461,
+    "foto": "/graffitis/estudiantes-organizados.jpg",
+    "barrio": "Ciudad Universitaria",
+    "autor": "",
+    "fecha": "2024-11-07",
+    "titulo": "Estudiantes Organizados"
+  },
+  {
+    "id": "grf-009",
+    "lat": 4.636756,
+    "lng": -74.081028,
+    "foto": "/graffitis/democracia-universitaria.jpg",
+    "barrio": "Ciudad Universitaria",
+    "autor": "",
+    "fecha": "2024-11-07",
+    "titulo": "Democracia Universitaria"
+  },
+  {
+    "id": "grf-010",
+    "lat": 4.637554,
+    "lng": -74.08001,
+    "foto": "/graffitis/decanos-fachos.jpg",
+    "barrio": "Ciudad Universitaria",
+    "autor": "",
+    "fecha": "2024-11-07",
+    "titulo": "Que los decanos sirvan pa' algo"
+  }
+]
